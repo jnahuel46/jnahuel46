@@ -14,8 +14,7 @@ I'm Jere and I'm a software engineer.
 + a lot more :D
 
 ## Portfolio
-- [Muriette Jeremias](https://marton.lederer.hu)
+- [Muriette Jeremias](https://astro-portfolio-lake.vercel.app/)
 
 ## Contact
-- [Muriette Jeremias](https://astro-portfolio-lake.vercel.app/)
-- [@jnahuel]([https://twitter.com/martonlederer](https://www.linkedin.com/in/jerem%C3%ADas-muriette-1711b0207/)https://www.linkedin.com/in/jerem%C3%ADas-muriette-1711b0207/) on LinkedIn
+- [On LinkedIn](linkedin.com/in/jeremías-muriette-1711b0207)
