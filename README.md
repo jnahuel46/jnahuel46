@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Jere and I'm a software engineer.
+I'm Jere and I'm a Software Engineer.
 
 - 👨‍💻 Working at [Stackzone](https://stackzone.com/).
 - 🚀 Currently working as a Frontend Developer.
