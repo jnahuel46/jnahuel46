@@ -14,10 +14,14 @@ I'm Jere and I'm a Software Engineer.
 + a lot more :D
 
 ## Portfolio
-- [Muriette Jeremias](https://astro-portfolio-lake.vercel.app/)
+<a target="_blank" href="https://astro-portfolio-lake.vercel.app/">
+  Muriette Jeremias
+</a>
 
 ## Contact
-- [On LinkedIn](linkedin.com/in/jeremías-muriette-1711b0207)
+<a target="_blank" href="linkedin.com/in/jeremías-muriette-1711b0207">
+  LinkedIn
+</a>
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
