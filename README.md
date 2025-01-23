@@ -1,7 +1,7 @@
 ## Hey! 👋
 I'm Jere and I'm a Software Engineer.
 
-- 👨‍💻 Working at [Darwoft]([https://stackzone.com/](https://www.darwoft.com/)).
+- 👨‍💻 Working at TechHouse.
 - 🚀 Currently working as a Fullstack Developer.
 - 📝 AWS Certified Cloud Practitioner.
 - 📝 AZURE Foundational Certified.
